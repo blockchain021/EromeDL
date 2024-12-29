@@ -30,7 +30,7 @@ Follow these steps to install the script:
 
    <div style="display: flex; justify-content: space-between;">
       <img src="https://github.com/user-attachments/assets/5218e246-6cd5-41c5-be92-0216b47c5d2b" width="45%" />
-      <img src="https://github.com/user-attachments/assets/c2caf841-223e-40e1-aabd-d3bacfc24eb2" width="45%" />
+      <img src="https://github.com/user-attachments/assets/5de302ff-4d12-4cb9-8990-a5706766bf76" width ="45%" />
    </div>
    
    <div style="display: flex; justify-content: space-between;">
