@@ -18,7 +18,7 @@ Follow these steps to install the script:
 2. **Install the Script**:
    - Click the link below to go directly to the GreasyFork page where you can install the script:
    
-   [Install EromeDL Script on GreasyFork](https://greasyfork.org/en/scripts/487468-eromeddl)
+   [Install EromeDL Script on GreasyFork](https://greasyfork.org/pt-BR/scripts/522155-eromedl)
 
    - Once you're on the GreasyFork page, click the **Install this script** button.
    - Tampermonkey will prompt you to install the script. Click **Install**.
