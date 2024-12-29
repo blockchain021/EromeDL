@@ -27,11 +27,14 @@ Follow these steps to install the script:
    - Go to the [Erome website](https://www.erome.com/) and open the video you want to download.
    - The script will automatically add a download button below the video.
    - Click the download button to open the video in a new tab, ready to be downloaded.
+     
 
 ## License
 
 This script is licensed under the MIT License. You are free to modify and redistribute the code, provided that you retain credit to the original author and leave the license intact.
 
+![Step 1](https://github.com/user-attachments/assets/5218e246-6cd5-41c5-be92-0216b47c5d2b)
+![Step 1](https://github.com/user-attachments/assets/5fa8e891-db51-4855-95a1-380e598c6e84)
 ## Legal Disclaimer
 
 - The use of this script must comply with the content policies of Erome and local copyright laws.
