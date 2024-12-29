@@ -27,8 +27,17 @@ Follow these steps to install the script:
    - Go to the [Erome website](https://www.erome.com/) and open the video you want to download.
    - The script will automatically add a download button below the video.
    - Click the download button to open the video in a new tab, ready to be downloaded.
-   ![Step 1](https://github.com/user-attachments/assets/5218e246-6cd5-41c5-be92-0216b47c5d2b)
-   ![Step 2](https://github.com/user-attachments/assets/c2caf841-223e-40e1-aabd-d3bacfc24eb2)     
+
+   <div style="display: flex; justify-content: space-between;">
+      <img src="https://github.com/user-attachments/assets/5218e246-6cd5-41c5-be92-0216b47c5d2b" width="45%" />
+      <img src="https://github.com/user-attachments/assets/c2caf841-223e-40e1-aabd-d3bacfc24eb2" width="45%" />
+   </div>
+   
+   <div style="display: flex; justify-content: space-between;">
+      <img src="https://github.com/user-attachments/assets/da15e4fd-b056-4084-b467-565e9b82e22f" width="45%" />
+      <img src="https://github.com/user-attachments/assets/b65577ea-8cab-4ab8-9764-839fbbc546ca" width="45%" />
+   </div>
+
 
 ## License
 
