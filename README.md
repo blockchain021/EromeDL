@@ -41,7 +41,7 @@ Follow these steps to install the script:
 
 ## License
 
-This script is licensed under the MIT License. You are free to modify and redistribute the code, provided that you retain credit to the original author and leave the license intact.
+**This script is licensed under the MIT License. You are free to use, modify, and redistribute this code, provided that you retain credit to the original author and include the full license text in any copies or substantial portions of the software.**
 
 ## Legal Disclaimer
 
