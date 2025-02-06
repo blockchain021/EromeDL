@@ -45,8 +45,9 @@ This script is licensed under the MIT License. You are free to modify and redist
 
 ## Legal Disclaimer
 
-- The use of this script must comply with the content policies of Erome and local copyright laws.
-- The author of this script is not responsible for any misuse of the code.
+- The use of this script **must comply** with the content policies of Erome and local copyright laws.
+- The author of this script **is not responsible** for any misuse of the code.
+- This script is provided **"as is"**, without any warranties, express or implied. Use at your own risk.
 
 ## Contributions
 
